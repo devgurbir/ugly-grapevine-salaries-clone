@@ -1,7 +1,6 @@
 import * as React from "react";
 import Container from "@mui/material/Container";
 import { Header } from "@/components/header/header";
-import Sidenav from "@/components/sidenav/sidenav";
 import Salaries from "@/components/salaries/salaries";
 import RightSidenav from "@/components/right-sidenav/right-sidenav";
 
