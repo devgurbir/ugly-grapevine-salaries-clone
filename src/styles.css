@@ -1,0 +1,197 @@
+.recoleta-large-B {
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: -0.128px;
+}
+.recoleta-large-B,
+.recoleta-large-EEB {
+  font-family: Recoleta-Bold;
+  font-style: normal;
+  line-height: normal;
+}
+.recoleta-large-EEB {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.56px;
+}
+.recoleta-large-EB {
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0;
+}
+.recoleta-large-EB,
+.recoleta-large-MB {
+  font-family: Recoleta-Bold;
+  font-size: 24px;
+}
+.recoleta-large-MB {
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -0.096px;
+}
+.recoleta-medium-MB {
+  font-family: Recoleta-Medium;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: 0;
+}
+.recoleta-small-EB {
+  font-size: 20px;
+  font-weight: 700;
+}
+.recoleta-small-B,
+.recoleta-small-EB {
+  font-family: Recoleta-Bold;
+  line-height: 32px;
+  letter-spacing: 0;
+}
+.recoleta-small-B {
+  font-size: 18px;
+  font-weight: 600;
+}
+.heading-medium-EB {
+  font-family: Onest;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 32px;
+  letter-spacing: 0;
+}
+.heading-small-EB {
+  font-weight: 800;
+}
+.heading-small-B,
+.heading-small-EB {
+  font-family: Onest;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+.heading-small-B {
+  font-weight: 700;
+}
+.heading-small-XXL {
+  font-size: 20px;
+  line-height: 24px;
+}
+.heading-small-XXL,
+.title-large-XL {
+  font-family: Onest;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+.title-large-XL {
+  font-size: 18px;
+  line-height: 22px;
+}
+.title-extra-large-B {
+  font-size: 18px;
+  line-height: 24px;
+}
+.title-extra-large-B,
+.title-large-B {
+  font-family: Onest;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+.title-large-B {
+  font-size: 16px;
+  line-height: 19px;
+}
+.title-large-MB {
+  font-family: Onest;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: -0.16px;
+}
+.title-medium-B {
+  font-weight: 700;
+}
+.title-medium-B,
+.title-medium-MB {
+  font-family: Onest;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0;
+}
+.title-medium-MB {
+  font-weight: 600;
+}
+.title-small-B {
+  font-weight: 700;
+}
+.title-small-B,
+.title-smallest-MB {
+  font-family: Onest;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0;
+}
+.title-smallest-MB {
+  font-weight: 600;
+}
+.heading-large-M {
+  font-size: 16px;
+  line-height: 19px;
+}
+.heading-large-M,
+.heading-medium-M {
+  font-family: Onest;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+.heading-medium-M {
+  font-size: 14px;
+  line-height: 20px;
+  text-align: left;
+}
+.heading-medium-S {
+  font-family: Onest;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.28px;
+}
+.heading-small-M {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: left;
+}
+.heading-large-R,
+.heading-small-M {
+  font-family: Onest;
+  letter-spacing: 0;
+}
+.heading-large-R {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 19px;
+}
+.heading-medium-R {
+  font-family: Onest;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 140% !important;
+  letter-spacing: 0;
+}
+.heading-small-R {
+  font-family: Onest;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0;
+}
+.heading-smaller-L {
+  font-family: Onest;
+  font-size: 11px;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0;
+}
+
+.hide-scroll-bar {
+  scrollbar-width: none;
+}
