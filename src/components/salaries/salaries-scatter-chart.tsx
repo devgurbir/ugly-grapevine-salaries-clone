@@ -46,7 +46,7 @@ export default function SalariesScatterChart() {
         <YAxis type="number" dataKey="y" name="salary" unit="" />
         <Tooltip
           content={({ payload, active, label }) => {
-            if (active && payload && payload.length) {
+            if (active && payload?.length) {
               return <CustomSalaryTooltip {...payload[0].payload} />;
             } else {
               return null;
